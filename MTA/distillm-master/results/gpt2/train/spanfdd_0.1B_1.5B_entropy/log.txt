@@ -340,3 +340,61 @@ train | epoch   4 | Iter:   3310/  3570 | global iter:   3310/  3570 | loss: 3.2
 train | epoch   4 | Iter:   3320/  3570 | global iter:   3320/  3570 | loss: 3.0207 | ds_loss: 0.9331 | lr: 1.3039e-06 | scale:  4096.0000 | micro time: 2.586 | step time: 2.720
 train | epoch   4 | Iter:   3330/  3570 | global iter:   3330/  3570 | loss: 3.0721 | ds_loss: 0.9853 | lr: 1.2099e-06 | scale:  4096.0000 | micro time: 2.589 | step time: 2.540
 train | epoch   4 | Iter:   3340/  3570 | global iter:   3340/  3570 | loss: 3.2779 | ds_loss: 1.1332 | lr: 1.1196e-06 | scale:  4096.0000 | micro time: 2.586 | step time: 2.541
+train | epoch   4 | Iter:   3350/  3570 | global iter:   3350/  3570 | loss: 3.2160 | ds_loss: 1.0593 | lr: 1.0332e-06 | scale:  4096.0000 | micro time: 2.624 | step time: 2.537
+train | epoch   4 | Iter:   3360/  3570 | global iter:   3360/  3570 | loss: 3.1388 | ds_loss: 1.0330 | lr: 9.5049e-07 | scale:  4096.0000 | micro time: 1.964 | step time: 2.463
+train | epoch   4 | Iter:   3370/  3570 | global iter:   3370/  3570 | loss: 3.2557 | ds_loss: 1.1083 | lr: 8.7163e-07 | scale:  4096.0000 | micro time: 2.534 | step time: 2.433
+train | epoch   4 | Iter:   3380/  3570 | global iter:   3380/  3570 | loss: 3.2241 | ds_loss: 1.0765 | lr: 7.9657e-07 | scale:  4096.0000 | micro time: 2.387 | step time: 2.425
+train | epoch   4 | Iter:   3390/  3570 | global iter:   3390/  3570 | loss: 3.0883 | ds_loss: 0.9894 | lr: 7.2532e-07 | scale:  4096.0000 | micro time: 2.463 | step time: 2.523
+train | epoch   4 | Iter:   3400/  3570 | global iter:   3400/  3570 | loss: 3.2431 | ds_loss: 1.0772 | lr: 6.5790e-07 | scale:  4096.0000 | micro time: 2.541 | step time: 2.558
+train | epoch   4 | Iter:   3410/  3570 | global iter:   3410/  3570 | loss: 3.0878 | ds_loss: 0.9793 | lr: 5.9430e-07 | scale:  4096.0000 | micro time: 2.482 | step time: 2.523
+train | epoch   4 | Iter:   3420/  3570 | global iter:   3420/  3570 | loss: 3.1792 | ds_loss: 1.0265 | lr: 5.3453e-07 | scale:  4096.0000 | micro time: 2.472 | step time: 2.519
+train | epoch   4 | Iter:   3430/  3570 | global iter:   3430/  3570 | loss: 3.1440 | ds_loss: 1.0506 | lr: 4.7860e-07 | scale:  4096.0000 | micro time: 2.485 | step time: 2.352
+train | epoch   4 | Iter:   3440/  3570 | global iter:   3440/  3570 | loss: 3.1966 | ds_loss: 1.0758 | lr: 4.2650e-07 | scale:  4096.0000 | micro time: 2.455 | step time: 2.533
+train | epoch   4 | Iter:   3450/  3570 | global iter:   3450/  3570 | loss: 3.2229 | ds_loss: 1.1198 | lr: 3.7825e-07 | scale:  4096.0000 | micro time: 2.456 | step time: 2.520
+train | epoch   4 | Iter:   3460/  3570 | global iter:   3460/  3570 | loss: 3.2084 | ds_loss: 1.0786 | lr: 3.3384e-07 | scale:  4096.0000 | micro time: 2.547 | step time: 2.528
+train | epoch   4 | Iter:   3470/  3570 | global iter:   3470/  3570 | loss: 3.1679 | ds_loss: 1.0379 | lr: 2.9328e-07 | scale:  4096.0000 | micro time: 2.492 | step time: 2.529
+train | epoch   4 | Iter:   3480/  3570 | global iter:   3480/  3570 | loss: 3.1800 | ds_loss: 1.0877 | lr: 2.5658e-07 | scale:  4096.0000 | micro time: 2.547 | step time: 2.534
+train | epoch   4 | Iter:   3490/  3570 | global iter:   3490/  3570 | loss: 3.1771 | ds_loss: 1.0514 | lr: 2.2373e-07 | scale:  4096.0000 | micro time: 2.437 | step time: 2.369
+train | epoch   4 | Iter:   3500/  3570 | global iter:   3500/  3570 | loss: 3.1806 | ds_loss: 1.0411 | lr: 1.9474e-07 | scale:  4096.0000 | micro time: 2.568 | step time: 2.534
+train | epoch   4 | Iter:   3510/  3570 | global iter:   3510/  3570 | loss: 3.2347 | ds_loss: 1.0785 | lr: 1.6961e-07 | scale:  4096.0000 | micro time: 2.468 | step time: 2.525
+train | epoch   4 | Iter:   3520/  3570 | global iter:   3520/  3570 | loss: 3.0476 | ds_loss: 0.9467 | lr: 1.4834e-07 | scale:  4096.0000 | micro time: 2.570 | step time: 2.538
+train | epoch   4 | Iter:   3530/  3570 | global iter:   3530/  3570 | loss: 3.2538 | ds_loss: 1.0806 | lr: 1.3094e-07 | scale:  4096.0000 | micro time: 2.555 | step time: 2.536
+train | epoch   4 | Iter:   3540/  3570 | global iter:   3540/  3570 | loss: 3.0747 | ds_loss: 1.0202 | lr: 1.1741e-07 | scale:  4096.0000 | micro time: 2.464 | step time: 2.527
+train | epoch   4 | Iter:   3550/  3570 | global iter:   3550/  3570 | loss: 3.1782 | ds_loss: 1.0390 | lr: 1.0774e-07 | scale:  4096.0000 | micro time: 2.559 | step time: 2.397
+train | epoch   4 | Iter:   3560/  3570 | global iter:   3560/  3570 | loss: 3.1916 | ds_loss: 1.0835 | lr: 1.0193e-07 | scale:  4096.0000 | micro time: 2.478 | step time: 2.506
+train | epoch   4 | Iter:   3570/  3570 | global iter:   3570/  3570 | loss: 3.1966 | ds_loss: 1.0495 | lr: 1.0000e-07 | scale:  4096.0000 | micro time: 2.463 | step time: 2.534
+dev | avg_loss: 4.8974609375 | {'exact_match': 3.3, 'rougeL': 23.5627} | threshold: 0.1
+
+
+============================== EXP at 2026-05-03 06:40:59 ==============================
+dev | avg_loss: 3.10888671875 | {'exact_match': 0.0, 'rougeL': 7.1872} | threshold: 0.0
+train | epoch   0 | Iter:     10/  3570 | global iter:     10/  3570 | loss: 18.7637 | ds_loss: 1.6914 | lr: 9.9998e-05 | scale:  2048.0000 | micro time: 1.489 | step time: 1.639
+train | epoch   0 | Iter:     20/  3570 | global iter:     20/  3570 | loss: 8.8618 | ds_loss: 1.7467 | lr: 9.9992e-05 | scale:  2048.0000 | micro time: 1.431 | step time: 1.434
+train | epoch   0 | Iter:     30/  3570 | global iter:     30/  3570 | loss: 6.6165 | ds_loss: 1.5921 | lr: 9.9983e-05 | scale:  2048.0000 | micro time: 1.377 | step time: 1.437
+train | epoch   0 | Iter:     40/  3570 | global iter:     40/  3570 | loss: 5.7547 | ds_loss: 1.5095 | lr: 9.9969e-05 | scale:  2048.0000 | micro time: 1.421 | step time: 1.425
+train | epoch   0 | Iter:     50/  3570 | global iter:     50/  3570 | loss: 5.2203 | ds_loss: 1.3859 | lr: 9.9952e-05 | scale:  2048.0000 | micro time: 1.414 | step time: 1.434
+train | epoch   0 | Iter:     60/  3570 | global iter:     60/  3570 | loss: 4.9780 | ds_loss: 1.4320 | lr: 9.9930e-05 | scale:  2048.0000 | micro time: 1.489 | step time: 1.437
+train | epoch   0 | Iter:     70/  3570 | global iter:     70/  3570 | loss: 4.7820 | ds_loss: 1.3563 | lr: 9.9905e-05 | scale:  2048.0000 | micro time: 1.411 | step time: 1.446
+train | epoch   0 | Iter:     80/  3570 | global iter:     80/  3570 | loss: 4.7730 | ds_loss: 1.3872 | lr: 9.9876e-05 | scale:  2048.0000 | micro time: 1.423 | step time: 1.463
+train | epoch   0 | Iter:     90/  3570 | global iter:     90/  3570 | loss: 4.5185 | ds_loss: 1.3025 | lr: 9.9843e-05 | scale:  2048.0000 | micro time: 1.509 | step time: 1.461
+train | epoch   0 | Iter:    100/  3570 | global iter:    100/  3570 | loss: 4.5289 | ds_loss: 1.3738 | lr: 9.9807e-05 | scale:  2048.0000 | micro time: 1.431 | step time: 1.440
+train | epoch   0 | Iter:    110/  3570 | global iter:    110/  3570 | loss: 4.5187 | ds_loss: 1.3648 | lr: 9.9766e-05 | scale:  2048.0000 | micro time: 1.434 | step time: 1.435
+train | epoch   0 | Iter:    120/  3570 | global iter:    120/  3570 | loss: 4.3256 | ds_loss: 1.2890 | lr: 9.9722e-05 | scale:  2048.0000 | micro time: 1.422 | step time: 1.448
+train | epoch   0 | Iter:    130/  3570 | global iter:    130/  3570 | loss: 4.4418 | ds_loss: 1.3524 | lr: 9.9674e-05 | scale:  2048.0000 | micro time: 1.439 | step time: 1.448
+train | epoch   0 | Iter:    140/  3570 | global iter:    140/  3570 | loss: 4.2823 | ds_loss: 1.3006 | lr: 9.9621e-05 | scale:  2048.0000 | micro time: 1.447 | step time: 1.438
+train | epoch   0 | Iter:    150/  3570 | global iter:    150/  3570 | loss: 4.3099 | ds_loss: 1.3300 | lr: 9.9565e-05 | scale:  2048.0000 | micro time: 1.430 | step time: 1.438
+train | epoch   0 | Iter:    160/  3570 | global iter:    160/  3570 | loss: 4.3421 | ds_loss: 1.3631 | lr: 9.9506e-05 | scale:  2048.0000 | micro time: 1.413 | step time: 1.444
+train | epoch   0 | Iter:    170/  3570 | global iter:    170/  3570 | loss: 4.1459 | ds_loss: 1.2656 | lr: 9.9442e-05 | scale:  2048.0000 | micro time: 1.441 | step time: 1.433
+train | epoch   0 | Iter:    180/  3570 | global iter:    180/  3570 | loss: 4.2228 | ds_loss: 1.2913 | lr: 9.9375e-05 | scale:  2048.0000 | micro time: 1.441 | step time: 1.447
+train | epoch   0 | Iter:    190/  3570 | global iter:    190/  3570 | loss: 4.1455 | ds_loss: 1.3079 | lr: 9.9303e-05 | scale:  2048.0000 | micro time: 1.431 | step time: 1.436
+train | epoch   0 | Iter:    200/  3570 | global iter:    200/  3570 | loss: 4.1512 | ds_loss: 1.3092 | lr: 9.9228e-05 | scale:  2048.0000 | micro time: 1.420 | step time: 1.432
+train | epoch   0 | Iter:    210/  3570 | global iter:    210/  3570 | loss: 4.0558 | ds_loss: 1.2510 | lr: 9.9150e-05 | scale:  2048.0000 | micro time: 1.435 | step time: 1.435
+train | epoch   0 | Iter:    220/  3570 | global iter:    220/  3570 | loss: 4.0865 | ds_loss: 1.3316 | lr: 9.9067e-05 | scale:  2048.0000 | micro time: 1.403 | step time: 1.440
+train | epoch   0 | Iter:    230/  3570 | global iter:    230/  3570 | loss: 4.0616 | ds_loss: 1.3191 | lr: 9.8980e-05 | scale:  2048.0000 | micro time: 1.446 | step time: 1.440
+train | epoch   0 | Iter:    240/  3570 | global iter:    240/  3570 | loss: 4.0180 | ds_loss: 1.2832 | lr: 9.8890e-05 | scale:  2048.0000 | micro time: 1.417 | step time: 1.469
+train | epoch   0 | Iter:    250/  3570 | global iter:    250/  3570 | loss: 3.9770 | ds_loss: 1.2402 | lr: 9.8796e-05 | scale:  2048.0000 | micro time: 1.428 | step time: 1.447
+train | epoch   0 | Iter:    260/  3570 | global iter:    260/  3570 | loss: 3.9793 | ds_loss: 1.2684 | lr: 9.8698e-05 | scale:  2048.0000 | micro time: 1.427 | step time: 1.452
+train | epoch   0 | Iter:    270/  3570 | global iter:    270/  3570 | loss: 3.9998 | ds_loss: 1.3013 | lr: 9.8597e-05 | scale:  2048.0000 | micro time: 1.423 | step time: 1.430
+train | epoch   0 | Iter:    280/  3570 | global iter:    280/  3570 | loss: 4.0582 | ds_loss: 1.3263 | lr: 9.8491e-05 | scale:  2048.0000 | micro time: 1.461 | step time: 1.448
+train | epoch   0 | Iter:    290/  3570 | global iter:    290/  3570 | loss: 3.9647 | ds_loss: 1.2953 | lr: 9.8382e-05 | scale:  2048.0000 | micro time: 1.398 | step time: 1.443
+train | epoch   0 | Iter:    300/  3570 | global iter:    300/  3570 | loss: 4.0318 | ds_loss: 1.3167 | lr: 9.8269e-05 | scale:  2048.0000 | micro time: 1.451 | step time: 1.453

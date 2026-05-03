@@ -3,7 +3,7 @@
 #        → openai-community/gpt2 (student, 768-dim, 12 layers)
 # Variant: MTA + Entropy Weight
 
-GPUS=(0 1 2 3 4 5 6 7)
+GPUS=(0 1)
 export CUDA_VISIBLE_DEVICES=$(IFS=,; echo "${GPUS[*]}")
 export TOKENIZERS_PARALLELISM=false
 export DS_IGNORE_CUDA_DETECTION=1
@@ -25,10 +25,10 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 OPTS=""
 OPTS+=" --model_name openai-community/gpt2"
 OPTS+=" --dataset.file $SCRIPT_DIR/llm_distillation/datasets/loader/dolly.py"
-OPTS+=" --lr 1e-4"
+OPTS+=" --lr 1e-5"
 OPTS+=" --num_epochs 10"
-OPTS+=" --batch_size_training 2"
-OPTS+=" --gradient_accumulation_steps 1"
+OPTS+=" --batch_size_training 8"
+OPTS+=" --gradient_accumulation_steps 2"
 OPTS+=" --val_batch_size 8"
 OPTS+=" --output_dir $SCRIPT_DIR/output/qwen1.5-1.8B-to-gpt2-120M/mta_ew"
 OPTS+=" --distillation"

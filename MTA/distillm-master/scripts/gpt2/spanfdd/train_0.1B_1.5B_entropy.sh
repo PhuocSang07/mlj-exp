@@ -1,6 +1,6 @@
 #! /bin/bash
 
-GPUS=(0)
+GPUS=(0 1)
 export CUDA_VISIBLE_DEVICES=$(IFS=,; echo "${GPUS[*]}")
 export TOKENIZERS_PARALLELISM=false
 
@@ -27,7 +27,7 @@ TEACHER_CKPT="MiniLLM/teacher-gpt2-1.5B"
 # data
 DATA_DIR="${BASE_PATH}/processed_data/dolly/full/gpt2/"
 # hp
-BATCH_SIZE=16
+BATCH_SIZE=8
 LR=0.0001
 GRAD_ACC=1
 EVAL_BATCH_SIZE=64

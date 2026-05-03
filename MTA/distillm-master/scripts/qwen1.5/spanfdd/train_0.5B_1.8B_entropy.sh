@@ -1,6 +1,6 @@
 #! /bin/bash
 
-GPUS=(0)
+GPUS=(0 1)
 export CUDA_VISIBLE_DEVICES=$(IFS=,; echo "${GPUS[*]}")
 export TOKENIZERS_PARALLELISM=false
 
@@ -29,7 +29,7 @@ DATA_DIR="${BASE_PATH}/processed_data/dolly/full/qwen/"
 # hp
 BATCH_SIZE=8
 LR=0.0001
-GRAD_ACC=2
+GRAD_ACC=1
 EVAL_BATCH_SIZE=64
 EPOCHS=5
 # length
