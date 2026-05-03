@@ -3,7 +3,7 @@
 #        → openai-community/gpt2-xl (student, 1600-dim, 48 layers)
 # Variant: MTA + Entropy Weight
 
-GPUS=(0 1 2 3 4 5 6 7)
+GPUS=(0)
 export CUDA_VISIBLE_DEVICES=$(IFS=,; echo "${GPUS[*]}")
 export TOKENIZERS_PARALLELISM=false
 
